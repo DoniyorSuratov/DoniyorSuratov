@@ -89,6 +89,7 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 
 - 📧 Email: suratovdoniyor@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/doniyor-suratov-89bab1275/
+- 💼 LeetCode: https://leetcode.com/suratovdoniyor/
 
 Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
 
